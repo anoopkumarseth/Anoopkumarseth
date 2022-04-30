@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anoopkumarseth
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding & Ui Design
 - 🌱 I’m currently learning Angular Js
 - 📫 My Email Id Is: anoopkumarseth@hotmail.com
 
