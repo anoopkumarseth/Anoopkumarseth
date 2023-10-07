@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anoopkumarseth
-- 👀 I’m interested in Coding & Ui Design
-- 🌱 I’m currently learning Angular Js
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Angular and Firebase
 - 📫 My Email Id Is: anoopkumarseth@hotmail.com
 
 <!---
