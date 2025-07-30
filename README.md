@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anoopkumarseth
+- 👋 Hi, I’m Anoop Seth
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning SAP Commerce Cloud
 - 📫 My Email Id Is: anoopkumarseth@hotmail.com
