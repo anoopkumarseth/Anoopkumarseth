@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anoop Seth
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning SAP Commerce Cloud
-- 📫 My Email Id Is: anoopkumarseth@hotmail.com
+- 🌱 I’m currently learning ...
+- 📫 My email ID is: anoopkumarseth@hotmail.com
 
 <!---
 anoopkumarseth/anoopkumarseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
